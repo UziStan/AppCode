@@ -87,7 +87,7 @@ class App extends Component {
                         fontWeight: "bolder",
                     }}
                 >
-                    Uzed - TODO LIST
+                    Uzed Okonyia Devops Engr, u do this one. Oshey Jesu! - TODO LIST
                 </Row>
   
                 <hr />
